@@ -10,7 +10,7 @@
 
 ### Analysis of Outcomes Based on Goals: The most successful fundraising goals are less than $1000. ![Theater_Outcomes_vs_Launch](https://github.com/becca0316/Kickstarter_Challenge/blob/main/Resources/Outcomes_vs_Goals.png)
 
-### Challenges and Difficulties Encountered: One challenge I encountered was using the "Countifs" formula to find data in between ranges (i.e. >1000 < 4999). When I was entering the formula I kept getting errors because I was not adding commas in between the ranges and I was not separating the ranges. In using the Microsoft Support webpage, I was able to solve the issue and was able t get the right data without error message boxes.  
+### Challenges and Difficulties Encountered: One challenge I encountered was using the "Countifs" formula to find data in between ranges (i.e. >1000 < 4999). When I was entering the formula I kept getting errors because I was not adding commas in between the ranges and I was not separating the ranges. In using the Microsoft Support webpage, I was able to solve the issue and was able to get the right data without error message boxes.  
 
 ## Results
 
