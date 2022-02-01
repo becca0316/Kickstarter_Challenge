@@ -6,7 +6,7 @@
 
 ## Analysis and Challenges
 
-### Analysis of Outcomes Based on Launch Date: The most successful launches are in May. ![Outcomes_vs_Goals](file:///C:/Users/antho/OneDrive/Desktop/Class%20Folder/Resources/Outcomes_vs_Goals.png)  
+### Analysis of Outcomes Based on Launch Date: The most successful launches are in May. ![Outcomes_vs_Goals](https://github.com/becca0316/Kickstarter_Challenge/blob/main/Resources/Outcomes_vs_Goals.png)  
 
 ### Analysis of Outcomes Based on Goals: The most successful fundraising goals are less than $1000. ![Theater_Outcomes_vs_Launch](file:///C:/Users/antho/OneDrive/Desktop/Class%20Folder/Resources/Theater_Outcomes_vs_Launch.png)
 
